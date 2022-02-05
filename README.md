@@ -1,2 +1,2 @@
-# C-Code-Practice
-Some C codes!
+# Cplusplus-Code-Practice
+Some C++ codes!
